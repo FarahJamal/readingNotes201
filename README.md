@@ -5,5 +5,5 @@
 
  file Name(Lab name) | File Live URL | File Repo Link|
 | ------| -----------|--------|
-|read 01|||
+|read 01|[HTML & JS](http://patatatech.me/readingNotes201/read01)|[HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read01.md)|
 
