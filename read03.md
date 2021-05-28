@@ -123,6 +123,24 @@ for (i = 0; i < cars.length; i++) {
   - while - loops through a block of code while a specified condition is true
   - do/while - also loops through a block of code while a specified condition is true
 
+##### 2-Truthy and falsy values.
+
+ * A falsy value is something which evaluates to FALSE, for instance when checking a variable. 
+    - There are only six falsey values in JavaScript:
+      
+      1-  undefined
+      2- null
+      
+       3- NaN
+      
+        4- 0
+      
+         5- "" (empty string)
+      
+      6- false.
+
+  - everything else is consider as truthy.
+
 
 
 

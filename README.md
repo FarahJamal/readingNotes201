@@ -7,4 +7,7 @@
 | ------| -----------|--------|
 |read 01|[HTML & JS](http://patatatech.me/readingNotes201/read01)|[HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read01.md)|
 |read 02|[CSS & JS](http://patatatech.me/readingNotes201/read02)|[CSS & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read02.md)|
+|read 03|[CSS, HTML & JS](http://patatatech.me/readingNotes201/read03)|[CSS, HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read03.md)|
+|read04|[CSS, HTML, & JS](http://patatatech.me/readingNotes201/read04)|[CSS, HTML, & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read04.md)|
+|read05|[Images, Color, Text]()|[Images, Color, Text-Repo]()|
 
