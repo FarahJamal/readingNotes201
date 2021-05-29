@@ -71,6 +71,7 @@ HTML Text Formatting Elements
 You can set the color of text:
 
 <span style="color:red">Hello World</span>
+
 <span style="color:blue">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</span>
 
 <span style="color:green">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</span>

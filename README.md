@@ -9,5 +9,6 @@
 |read 02|[CSS & JS](http://patatatech.me/readingNotes201/read02)|[CSS & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read02.md)|
 |read 03|[CSS, HTML & JS](http://patatatech.me/readingNotes201/read03)|[CSS, HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read03.md)|
 |read04|[CSS, HTML, & JS](http://patatatech.me/readingNotes201/read04)|[CSS, HTML, & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read04.md)|
-|read05|[Images, Color, Text]()|[Images, Color, Text-Repo]()|
+|read05|[Images, Color, Text](http://patatatech.me/readingNotes201/read05)|[Images, Color, Text-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read05.md)|
+|read06|[DOM JS](http://patatatech.me/readingNotes201/read05)|[DOM JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read06.md)|
 
