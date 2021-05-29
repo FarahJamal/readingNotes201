@@ -80,4 +80,4 @@ Article: [Understanding the problem domain is the hardest part of programming](h
 - You can simply the Problem Domain but cutting it into smaller chunks
 
 
-[here you'll find DOM cheat sheet for JS and HTML]()
+[here you'll find DOM cheat sheet for JS and HTML](http://patatatech.me/readingNotes201/DOMcheatsheet)
