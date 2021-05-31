@@ -14,10 +14,9 @@ Article: [Understanding the problem domain is the hardest part of programming](h
 - The textbook referenced above does a great job with visuals for **Creating an Object Literal** and **Accessing an Object Literal w/Dot Notation**, so I’ve added the images below: 
 
   **Creating an Object Literal**  
-  <img src='images/createObject.jpg' width='300px'>
+  <img src='https://miro.medium.com/max/875/1*gslNlU_BKtZuSyjLMbmp7Q.png' width='300px'>
 
-  **Accessing an Object**  
-  <img src='images/accessObject.jpg' width='300px'>
+ 
 
 ---
 ## HTML + JS | Document Object Model (DOM)
@@ -68,9 +67,7 @@ Article: [Understanding the problem domain is the hardest part of programming](h
 - **Attribute Nodes**: The attr’s in the opening tag, like `src=` or `alt=` etc.
 - **Text Nodes**: The text between tags
 
-- You access the DOM in various ways referencing Element or Attribute nodes, below is an image of methods that access the DOM: 
-
-  <img src='images/methodDOM.jpg' width='300px'>
+- You access the DOM in various ways referencing Element or Attribute nodes.
 
 ---
 ## Article | [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
