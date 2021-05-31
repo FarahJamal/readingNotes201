@@ -147,24 +147,27 @@ ul li {
   left: 50%;
   transform: translateX(-50%);
 }
-Or vertical centering too…
+```
 
+Or vertical centering too…
+```
 .content {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
-Centering with float
+```
+## Centering with float
 
-There’s no float: center
+# There’s no float: center
 
-You cannot center floated elements.
+# You cannot center floated elements.
 
-Centering with flexbox
+#### Centering with flexbox
 
-Flex box has a bunch of different alignment classes—that are always applied to the parent.
-
+- Flex box has a bunch of different alignment classes—that are always applied to the parent.
+```
 <div class="card">
   <h2>Edmontosaurus</h2>
   <a href="#">See the bones!</a>
@@ -176,17 +179,18 @@ Flex box has a bunch of different alignment classes—that are always applied to
   align-content: center;
   align-items: center;
 }
-This will be completely centered within the box.
+```
+- This will be completely centered within the box.
 
-See the flexbox cheat sheet for more details.
+- See the flexbox cheat sheet for more details.
 
-Common code
-Border box
+### Common code
+### Border box
 
-Used to change layout math for width & padding.
+- Used to change layout math for width & padding.
 
-Put at the top of every CSS file.
-
+* Put at the top of every CSS file.
+```
 html {
   box-sizing: border-box;
 }
@@ -194,25 +198,28 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-Clearfix for float
+```
+### Clearfix for float
 
-Add to the parent elements of floats to force the parent to surround the floated element.
+- Add to the parent elements of floats to force the parent to surround the floated element.
 
-Can be used instead of overflow: hidden
-
+### Can be used instead of `overflow: hidden`
+```
 .clearfix::after {
   content: " ";
   display: block;
   clear: both;
 }
-Flexible images
+```
+### Flexible images
 
-Use width & display to make images flex to their parent’s size.
-
+- Use width & display to make images flex to their parent’s size.
+```
 img {
   display: block;
   width: 100%;
-
+}
+```
 
 
 

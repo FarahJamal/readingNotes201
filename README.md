@@ -12,4 +12,5 @@
 |read05|[Images, Color, Text](http://patatatech.me/readingNotes201/read05)|[Images, Color, Text-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read05.md)|
 |read06|[DOM JS](http://patatatech.me/readingNotes201/read06)|[DOM JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read06.md)|
 |read07|[tables and constructors](http://patatatech.me/readingNotes201/read07)|[tables and constructors-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read07.md)|
+|read08|[css cheat sheet](http://patatatech.me/readingNotes201/read08)|[css cheat sheet-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read08.md)|
 
