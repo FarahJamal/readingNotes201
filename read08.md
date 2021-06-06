@@ -141,7 +141,6 @@ ul li {
 .banner {
   position: relative;
 }
-
 .content {
   position: absolute;
   left: 50%;

@@ -13,4 +13,5 @@
 |read06|[DOM JS](http://patatatech.me/readingNotes201/read06)|[DOM JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read06.md)|
 |read07|[tables and constructors](http://patatatech.me/readingNotes201/read07)|[tables and constructors-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read07.md)|
 |read08|[css cheat sheet](http://patatatech.me/readingNotes201/read08)|[css cheat sheet-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read08.md)|
-
+|read09|[forms and javascript event](http://patatatech.me/readingNotes201/read09)|[forms and javascript event-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read10.md)|
+|read10|[JS Error Handling](http://patatatech.me/readingNotes201/read09)|[JS Error Handling-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read10.md)|
