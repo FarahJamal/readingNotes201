@@ -17,3 +17,6 @@
 |read10|[JS Error Handling](http://patatatech.me/readingNotes201/read09)|[JS Error Handling-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read10.md)|
 |read11|[Images video and audio](http://patatatech.me/readingNotes201/read11)|[Images video and audio-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read11.md)|
 |read12|[Icharts and canvas](http://patatatech.me/readingNotes201/read12)|[charts and canvas-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read12.md)|
+|read13|[JS local-Storage](http://patatatech.me/readingNotes201/read13)|[JS local-Storage-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read13.md)|
+|read14a|[animation and transition](http://patatatech.me/readingNotes201/read14a)|[animation and transition-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read14a.md)|
+|read14b|[google team](http://patatatech.me/readingNotes201/read14b)|[google teams-repo](https://github.com/FarahJamal/readingNotes201/blob/main/read14b.md)|
